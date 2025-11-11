@@ -5,6 +5,8 @@ Nesta etapa, vocês deverão apresentar o progresso do projeto com um olhar mais
 
 A seguir, estão os **critérios de avaliação oficiais** que orientarão a banca.
 
+
+
 ---
 
 ##  Critérios de Avaliação — Projeto Integrador 2
@@ -47,7 +49,7 @@ O foco agora é na **organização**, **documentação técnica**, **escalabilid
 ---
 #  ✅ Entregas da Pré-Banca:
 
-### 📃 Artigo: O grupo deve entregar um artigo técnico sobre o projeto, tanto na versão em português quanto em inglês, demonstrando a capacidade de documentar e comunicar as soluções desenvolvidas de maneira clara e profissional.
+### 📃 Artigo: O grupo deve entregar um artigo técnico sobre o projeto, tanto na versão em português quanto em inglês, demonstrando a capacidade de documentar e comunicar as soluções desenvolvidas de maneira clara e profissional. Enviar para o email: email: lopesribeirodalvana20@gmail.com
 
 ###  👩‍💻 Código: Todo o código-fonte do projeto deve ser escrito em inglês, garantindo a conformidade com as práticas internacionais de desenvolvimento e facilitando a colaboração.
 
