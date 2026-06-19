@@ -1,7 +1,7 @@
 #  Olá, queridos alunos ✌😉!
 
-A **pré-banca do Projeto Integrador 2** está marcada para o dia **17/11**.  
-Nesta etapa, vocês deverão apresentar o progresso do projeto com um olhar mais **profissional, técnico e detalhado**, demonstrando a evolução em relação ao primeiro PI.  
+A **seguem alguns recursos para o PI**.  
+
 
 A seguir, estão os **critérios de avaliação oficiais** que orientarão a banca.
 
