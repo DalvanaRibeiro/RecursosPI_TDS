@@ -65,6 +65,9 @@ O foco agora é na **organização**, **documentação técnica**, **escalabilid
 [ATLAS MUNDI: UMA PLATAFORMA DIGITAL INTERATIVA PARA O ENSINO DE GEOGRAFIA.](https://zenodo.org/records/19207654)
 
 
+### Editável
+https://senacrs365-my.sharepoint.com/:w:/g/personal/dalribeiro_senacrs_com_br/IQBCDQH8KsWUTrIAWeAnYI4AAVFF4D0p4QlxZQFHjkJeptk?e=IF0Paz
+
 ### Modelos de Apresentação:
 
 [HydroRS: Conectando Ciencia e Tecnologia na Prevenção de Riscos Hidrológicos](https://www.canva.com/design/DAG1IJq1clM/u8bSxvAzqqLE2njk9Fpg8w/edit?utm_content=DAG1IJq1clM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
