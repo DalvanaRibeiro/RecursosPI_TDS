@@ -74,6 +74,13 @@ Enviar para o email: lopesribeirodalvana20@gmail.com
 [HydroRS: Conectando Ciencia e Tecnologia na Prevenção de Riscos Hidrológicos](https://drive.google.com/file/d/16Vvtx5G6yBtl8SUd_f3g2J_uG9TSdjI_/view?usp=sharing)
 
 
+[TECNOLOGIA COMO ESPAÇO DE ACOLHIMENTO: UMA PLATAFORMA DIGITAL PARA APOIO AO NEURODESENVOLVIMENTO.](https://zenodo.org/records/19208067)
+
+[ABCAPY: UM APLICATIVO DE APOIO AO DESENVOLVIMENTO DE CRIANÇAS COM TRANSTORNO DO ESPECTRO AUTISTA.](https://zenodo.org/records/19207902)
+
+[ATLAS MUNDI: UMA PLATAFORMA DIGITAL INTERATIVA PARA O ENSINO DE GEOGRAFIA.](https://zenodo.org/records/19207654)
+
+
 ### Modelos de Apresentação:
 
 [HydroRS: Conectando Ciencia e Tecnologia na Prevenção de Riscos Hidrológicos](https://www.canva.com/design/DAG1IJq1clM/u8bSxvAzqqLE2njk9Fpg8w/edit?utm_content=DAG1IJq1clM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
